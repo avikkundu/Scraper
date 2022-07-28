@@ -1,0 +1,11 @@
+username,repo_name,stars,repo_url
+localstack,localstack,42400,https://github.com//localstack/localstack
+harness,drone,25400,https://github.com//harness/drone
+jenkinsci,jenkins,19300,https://github.com//jenkinsci/jenkins
+auchenberg,volkswagen,12400,https://github.com//auchenberg/volkswagen
+openshift,origin,8200,https://github.com//openshift/origin
+theonedev,onedev,7900,https://github.com//theonedev/onedev
+gocd,gocd,6500,https://github.com//gocd/gocd
+concourse,concourse,6400,https://github.com//concourse/concourse
+buildbot,buildbot,4900,https://github.com//buildbot/buildbot
+gaia-pipeline,gaia,4700,https://github.com//gaia-pipeline/gaia

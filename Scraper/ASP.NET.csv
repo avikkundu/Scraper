@@ -1,0 +1,11 @@
+username,repo_name,stars,repo_url
+dotnet,AspNetCore.Docs,10700,https://github.com//dotnet/AspNetCore.Docs
+aspnetboilerplate,aspnetboilerplate,10500,https://github.com//aspnetboilerplate/aspnetboilerplate
+bitwarden,server,10100,https://github.com//bitwarden/server
+abpframework,abp,8400,https://github.com//abpframework/abp
+nopSolutions,nopCommerce,7400,https://github.com//nopSolutions/nopCommerce
+ElectronNET,Electron.NET,6400,https://github.com//ElectronNET/Electron.NET
+RicoSuter,NSwag,5300,https://github.com//RicoSuter/NSwag
+thangchung,clean-code-dotnet,5200,https://github.com//thangchung/clean-code-dotnet
+smartstore,SmartStoreNET,2500,https://github.com//smartstore/SmartStoreNET
+JimBobSquarePants,ImageProcessor,2500,https://github.com//JimBobSquarePants/ImageProcessor

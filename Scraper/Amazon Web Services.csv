@@ -1,0 +1,11 @@
+username,repo_name,stars,repo_url
+serverless,serverless,43200,https://github.com//serverless/serverless
+localstack,localstack,42400,https://github.com//localstack/localstack
+bregman-arie,devops-exercises,28000,https://github.com//bregman-arie/devops-exercises
+donnemartin,data-science-ipython-notebooks,23400,https://github.com//donnemartin/data-science-ipython-notebooks
+pulumi,pulumi,13200,https://github.com//pulumi/pulumi
+ramitsurana,awesome-kubernetes,12900,https://github.com//ramitsurana/awesome-kubernetes
+aws,aws-cli,12700,https://github.com//aws/aws-cli
+kubernetes-sigs,kubespray,12600,https://github.com//kubernetes-sigs/kubespray
+donnemartin,awesome-aws,10500,https://github.com//donnemartin/awesome-aws
+mozilla,sops,10300,https://github.com//mozilla/sops

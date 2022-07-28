@@ -1,0 +1,11 @@
+username,repo_name,stars,repo_url
+realm,SwiftLint,16400,https://github.com//realm/SwiftLint
+facebook,infer,13400,https://github.com//facebook/infer
+analysis-tools-dev,static-analysis,10100,https://github.com//analysis-tools-dev/static-analysis
+Kristories,awesome-guidelines,7600,https://github.com//Kristories/awesome-guidelines
+checkstyle,checkstyle,7200,https://github.com//checkstyle/checkstyle
+SonarSource,sonarqube,7000,https://github.com//SonarSource/sonarqube
+facebook,pyre-check,6000,https://github.com//facebook/pyre-check
+reviewdog,reviewdog,5300,https://github.com//reviewdog/reviewdog
+detekt,detekt,4700,https://github.com//detekt/detekt
+simplecov-ruby,simplecov,4500,https://github.com//simplecov-ruby/simplecov
